@@ -26,7 +26,6 @@ yes
 no
 yes
 """
-#1
 import sys
 
 n = int(input())
@@ -44,6 +43,7 @@ for i in range(n):
 
 # for ~ else 
 # for문이 정상적으로 끝났으면 else 문을 실행하게 된다.
+
 
 '''
 # 2
